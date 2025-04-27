@@ -52,8 +52,8 @@ PDF_Converter_By_Aarohi/
    ```bash
    javac -cp "lib/pdfbox-app-2.0.34.jar" src/*.java -d bin
 3. **Run the Project:**
-    java -cp "lib/pdfbox-app-2.0.34.jar;bin" Main
-    (Use ; for Windows and : for Mac/Linux)
+   - java -cp "lib/pdfbox-app-2.0.34.jar;bin" Main
+     (Use ; for Windows and : for Mac/Linux)
 ## 🧠 Concepts Applied
 **Stack:**
 Undo functionality to reverse the last file operation.
