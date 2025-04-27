@@ -27,18 +27,20 @@ The project uses **Data Structures and Algorithms (DSA)** concepts like **Stack*
 ---
 
 ## 📦 Project Structure
+```plaintext
 PDF_Converter_By_Aarohi/
-│
 ├── src/
 │   ├── Main.java
 │   ├── PDFService.java
 │   ├── TaskManager.java
-│   ├── UndoManager.java
+│   └── UndoManager.java
 │
 ├── lib/
 │   └── pdfbox-app-2.0.34.jar
 │
-├── README.md
+├── bin/              (compiled .class files)
+│
+└── README.md
 
 
 
